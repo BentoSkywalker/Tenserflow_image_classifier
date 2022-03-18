@@ -13,3 +13,5 @@ With modeling and recording progress.
 And evaluate the result by the confusion metrix & classification report not just R2 score.
 
 Also explainable the correlation of metrics from the result due to understanding the data.
+
+_dataset_ : https://www.kaggle.com/catherinehorng/dogbreedidfromcomp
